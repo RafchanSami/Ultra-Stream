@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { ModalProvider } from "./context/ModalContext.jsx";
 import Home from "./pages/Home.jsx";
 import Login from "./pages/Login.jsx";
-import SignUp from "./pages/SignUp.jsx";
+import SignUp from "./pages/Signup.jsx";
 import Profile from "./pages/Profile.jsx";
 
 function App() {
