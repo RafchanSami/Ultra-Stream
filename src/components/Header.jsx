@@ -30,7 +30,7 @@ const Header = () => {
       {/* Logo + Name */}
       <div className="flex items-center space-x-3">
         <img
-          src="./src/assets/logo.png"   // 👉 public/logo.png এ logo রাখো
+          src="../src/assets/logo.png"   // 👉 public/logo.png এ logo রাখো
           alt="UltraStream Logo"
           className="w-10 h-10 object-contain"
         />
